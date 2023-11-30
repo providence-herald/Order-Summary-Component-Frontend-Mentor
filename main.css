@@ -15,7 +15,7 @@ body {
   background-position: top center;
   background-size: contain;
   background-color: hsl(225, 100%, 94%);
-  background-image: url(/pattern-background-desktop.svg);
+  background-image: url(pattern-background-desktop.svg);
   width: 100%;
   min-height: 100vh;
 }
@@ -119,7 +119,7 @@ main {
     background-position: top center;
     background-size: contain;
     background-color: hsl(225, 100%, 94%);
-    background-image: url(/pattern-background-mobile.svg);
+    background-image: url(pattern-background-mobile.svg);
   }
   main {
     width: 320px;
